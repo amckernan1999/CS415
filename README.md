@@ -1,2 +1,2 @@
-# CS415
-Algorithms Fall 2021
+# CS415 Algorithims
+Fall 2021
